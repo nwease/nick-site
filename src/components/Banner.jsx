@@ -15,14 +15,14 @@ const Banner = () => {
 
                         <div className='line'>
                             <span>
-                                what we live for.
+                                what I live for.
                             </span>
                         </div>
                     </h2>
 
                     <div className='btn-row'>
                         <a href='/'>
-                            Learn more about us <RightArrow />
+                            Learn more about me <RightArrow />
                         </a>
                     </div>
                 </div>
